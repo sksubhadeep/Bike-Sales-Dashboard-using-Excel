@@ -1,5 +1,6 @@
 # Bike-Sales-Dashboard-using-Excel
 
+
 Each of these visualizations and filters can provide valuable information to understand your customer base and their preferences. Here's a breakdown of how each element contributes to the overall insights:
 
 1. **Line Chart - Age Groups Interest in Bike Purchases:** This chart helps identify which age groups show the most interest in buying bikes. It can inform marketing and product development strategies. For example, if younger age groups are more interested, you might focus on promoting sportier or trendier bike models.
